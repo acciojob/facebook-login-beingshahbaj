@@ -61,3 +61,7 @@ a {
   cursor: pointer;
   color: white;
 }
+
+form{
+	background-color:rgb(255, 255, 255);
+}
