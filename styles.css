@@ -34,7 +34,6 @@ body {
 input {margin:5px;
 	width:90%;
   border: 1px solid #ccc;
-  border-radius: 5px;
   padding: 10px;
 }
 
@@ -63,5 +62,7 @@ a {
 }
 
 form{
+  border-radius: 5px;
+	
 	background-color:rgb(255, 255, 255);
 }
